@@ -1,4 +1,6 @@
----
+adb shell pm enable com.android.documentsui
+or
+adb shell pm enable com.google.android.documentsui---
 home: true
 heroImage: /logo.png
 actionText: Learn more
